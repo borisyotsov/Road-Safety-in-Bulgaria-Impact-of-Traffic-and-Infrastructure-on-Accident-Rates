@@ -1,5 +1,27 @@
-# Road Safety in Bulgaria: A Data-Driven Analysis of Traffic Exposure, Infrastructure, and Accident Rates
-Analyze the relationship between traffic intensity, road infrastructure, and road accidents.
+## Project Scope
+
+The project includes:
+- data cleaning and preprocessing,
+- feature engineering,
+- exploratory data analysis (EDA),
+- statistical analysis,
+- comparative benchmarking against EU fatality indicators,
+- and methodological discussion of limitations and uncertainty.
+
+## Revision Notice
+
+This repository contains a revised and improved version of the original submitted project.
+
+The revision includes:
+- clearer methodological scope,
+- improved normalization logic,
+- refined statistical interpretation,
+- removal of unsupported causal claims,
+- simplified and more consistent analytical structure,
+- and improved handling of uncertainty and data limitations.
+
+## Notes
+
 Textual and theoretical parts of this work are released under CC BY 4.0 unless otherwise stated.
-This project was developed over 10 days with incremental improvements and commits.
-This is a Technical report + Scientific article
+
+The project was developed incrementally with continuous refinement and methodological improvements.
